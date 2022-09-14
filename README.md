@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @penieltalents
-- 👀 I’m interested in gaining more knowledge about Computer programming
-- 🌱 I’m currently learning Css and JavaScript
-- 💞️ I’m looking to collaborate with anyone
-- 📫 How to reach me @raphaelfabunmi (Twitter) 
+- 👀 I’m a Tech Enthusiast
+- 🌱 
+- 💞️ An aspiring Software Engineer 
+- 📫 @raphaelfabunmi (Twitter) 
      raphaelfabunmi@gmail.com
 
 
