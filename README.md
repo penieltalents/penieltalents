@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @penieltalents
+- 👋 Hey i’m Rapheal
 - 👀 I’m a Tech Enthusiast
-- 🌱 
 - 💞️ An aspiring Software Engineer 
 - 📫 @raphaelfabunmi (Twitter) 
      raphaelfabunmi@gmail.com
